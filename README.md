@@ -1,4 +1,4 @@
-# 🎓 UNALM Admission Results - Web Scraping & Dashboard
+# 🎓 RESULTADOS DE ADMISION UNALM - Web Scraping & Dashboard
 
 ## 📋 Descripción del Proyecto
 
@@ -20,7 +20,7 @@ Convertir el proceso manual de consulta de resultados de admisión carrera por c
 
 ### Sitio Web Fuente
 El scraping se realizó sobre el portal oficial de resultados: `https://resultados.lamolina.edu.pe/resultados`
-
+![resultado](https://github.com/JorgeCcollana-7/ANALISIS-RESULTADOS-EXAMEN-ADMISION-UNALM-2025-2/blob/main/imagenes/inicio%20resultados%20unalm.png)
 **Características del sitio:**
 - Navegación por carreras individuales
 - Información estructurada por modalidad de ingreso
@@ -68,7 +68,7 @@ python webscraping_unalm.py
 - `ingresantes_UNALM_2025_II.csv` - Dataset procesado para Power BI
 
 ## 📊 Insights Clave
-
+![dash](https://github.com/JorgeCcollana-7/ANALISIS-RESULTADOS-EXAMEN-ADMISION-UNALM-2025-2/blob/main/imagenes/analisis%20dashboard.png)
 - **Carrera más demandada**: Agronomía con 22.6% de los ingresos
 - **Principal vía de ingreso**: Concurso Ordinario (71.3%)
 - **Tasa de éxito general**: 23.2% de postulantes logran ingresar
